@@ -1,0 +1,26 @@
+StartChar: space.phy
+Encoding: 65536 -1 17
+Width: 1200
+VWidth: 2573
+Flags: W
+HStem: 715 95<0 1200> 1578 20G<514 538.41>
+VStem: 514 201<230 1276>
+LayerCount: 2
+Fore
+SplineSet
+715 1276 m 1
+ 715 -92 l 1
+ 322 230 l 1
+ 514 230 l 1
+ 514 1598 l 1
+ 907 1276 l 1
+ 715 1276 l 1
+0 715 m 1
+ -50 764 l 1
+ 0 810 l 1
+ 1200 810 l 1
+ 1250 763 l 1
+ 1200 715 l 1
+ 0 715 l 1
+EndSplineSet
+EndChar

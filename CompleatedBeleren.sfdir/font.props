@@ -1,0 +1,83 @@
+SplineFontDB: 3.2
+FontName: CompleatedBeleren
+FullName: Compleated Beleren
+FamilyName: CompleatedBeleren
+Weight: Regular
+Copyright: Copyright (c) 2023, Mira, the Multiverse Probe
+UComments: "2023-7-12: Created with FontForge (http://fontforge.org)"
+Version: 001.000
+ItalicAngle: 0
+UnderlinePosition: -250
+UnderlineWidth: 50
+Ascent: 1760
+Descent: 288
+InvalidEm: 0
+LayerCount: 2
+Layer: 0 0 "+gMyXYgAA" 1
+Layer: 1 0 "+Uk2XYgAA" 0
+XUID: [1021 998 -886551286 26225]
+FSType: 0
+OS2Version: 0
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 1
+CreationTime: 1689102024
+ModificationTime: 1726886452
+PfmFamily: 17
+TTFWeight: 400
+TTFWidth: 5
+LineGap: 229
+VLineGap: 0
+OS2TypoAscent: 0
+OS2TypoAOffset: 1
+OS2TypoDescent: 0
+OS2TypoDOffset: 1
+OS2TypoLinegap: 229
+OS2WinAscent: 0
+OS2WinAOffset: 1
+OS2WinDescent: 0
+OS2WinDOffset: 1
+HheadAscent: 0
+HheadAOffset: 1
+HheadDescent: 0
+HheadDOffset: 1
+OS2Vendor: 'PfEd'
+Lookup: 1 0 0 "aalt" { "aalt-1"  } ['aalt' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 6 0 0 "word-separator" { "word-separator-1"  } [' RQD' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
+MarkAttachClasses: 1
+DEI: 91125
+ChainSub2: class "word-separator-1" 3 3 3 1
+  Class: 5 space
+  Class: 253 quotesingle a b d e f g h i j k l m n o p q r s t u v w x y z eth oslash ccaron uni0137 eng scaron uni0163 tcaron zcaron uni01C6 uni01E5 gcaron uni01E9 uni0252 uni0259 uni0262 uni0263 uni026C uni026E uni0274 uni0281 theta pi phi chi wdieresis quoteright
+  BClass: 5 space
+  BClass: 253 quotesingle a b d e f g h i j k l m n o p q r s t u v w x y z eth oslash ccaron uni0137 eng scaron uni0163 tcaron zcaron uni01C6 uni01E5 gcaron uni01E9 uni0252 uni0259 uni0262 uni0263 uni026C uni026E uni0274 uni0281 theta pi phi chi wdieresis quoteright
+  FClass: 5 space
+  FClass: 253 quotesingle a b d e f g h i j k l m n o p q r s t u v w x y z eth oslash ccaron uni0137 eng scaron uni0163 tcaron zcaron uni01C6 uni01E5 gcaron uni01E9 uni0252 uni0259 uni0262 uni0263 uni026C uni026E uni0274 uni0281 theta pi phi chi wdieresis quoteright
+ 1 1 1
+  ClsList: 1
+  BClsList: 2
+  FClsList: 2
+ 1
+  SeqLookup: 0 "aalt"
+  ClassNames: "All_Others" "space" "char"
+  BClassNames: "All_Others" "space" "char"
+  FClassNames: "All_Others" "space" "char"
+EndFPST
+LangName: 1033
+Encoding: UnicodeBmp
+UnicodeInterp: none
+NameList: AGL For New Fonts
+DisplaySize: -24
+AntiAlias: 1
+FitToEm: 0
+WinInfo: 448 32 10
+BeginPrivate: 0
+EndPrivate
+Grid
+-271.391601562 1350.90136719 m 5
+ 2241.4921875 1350.90136719 l 1029
+-271.391601562 1510.90136719 m 1
+ 2241.4921875 1510.90136719 l 1025
+-271.391601562 1290.90136719 m 1
+ 2241.4921875 1290.90136719 l 1025
+EndSplineSet
+EndSplineFont

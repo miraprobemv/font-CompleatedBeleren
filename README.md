@@ -1,1 +1,5 @@
-# font-CompleatedBeleren
+# Compleated Beleren
+
+## License
+
+This Font Software is licensed under the SIL Open Font License, Version 1.1.

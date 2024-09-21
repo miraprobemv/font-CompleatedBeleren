@@ -1,0 +1,23 @@
+StartChar: comma
+Encoding: 44 44 26
+Width: 1100
+VWidth: 2573
+Flags: W
+HStem: 715 95<0 280 770 1100>
+LayerCount: 2
+Fore
+SplineSet
+280 810 m 25
+ 280 715 l 25
+ 0 715 l 17
+ -50 763 l 1
+ 0 810 l 9
+ 280 810 l 25
+770 715 m 29
+ 770 810 l 29
+ 1100 810 l 21
+ 1150 762 l 5
+ 1100 715 l 13
+ 770 715 l 29
+EndSplineSet
+EndChar

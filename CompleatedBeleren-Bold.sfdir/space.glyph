@@ -1,0 +1,7 @@
+StartChar: space
+Encoding: 32 32 10
+Width: 700
+Flags: W
+LayerCount: 2
+Substitution2: "aalt-1" space.phy
+EndChar
